@@ -31,6 +31,10 @@ Note: The program stops after it has been checked if generationstep = #generatio
 - Experiment with changing the number of generations and analyze the output using the tables provided.
 - Turn the "show-circle?" switch on and off to see the difference in the arrangement of nodes in the network.
 
+## Demo
+
+https://youtu.be/WRCdLErpTwA
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
